@@ -80,7 +80,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <linux/msm_ipa.h>
 #include <IPACM_Defs.h>
 
-
 class IPACM_Routing
 {
 public:
